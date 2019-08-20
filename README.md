@@ -1,0 +1,1 @@
+# to-call-function-from-outside-in-setTimeout
